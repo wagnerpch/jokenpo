@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # joken_po
 
 Joken PO
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # jokenpo
->>>>>>> 5c9ceccdef2c5f5fb6a29a42cfa2c17880f397ca
